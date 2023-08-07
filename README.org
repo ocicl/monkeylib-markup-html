@@ -2,9 +2,8 @@
 
 Generate HTML from Monkeylib Markup
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/gigamonkey/monkeylib-markup-html.git   |
-| commit  | 9c0cee8  |
-| systems | monkeylib-markup-html |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------------------|
+| source  | git:https://github.com/gigamonkey/monkeylib-markup-html.git |
+| commit  | 9c0cee8                                                     |
+| systems | com.gigamonkeys.markup-html                                 |
+|---------+-------------------------------------------------------------|
